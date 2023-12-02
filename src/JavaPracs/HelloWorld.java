@@ -2,15 +2,28 @@ package JavaPracs;
 
 public class HelloWorld {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hello World");
-		System.out.println("Hello Sonya");
-		System.out.println("Hello Rani");
-		System.out.println("Hello Dhara"); //new changes added
-		System.out.println("Hello Payal");  //Changes committed
+		Test t1=new Test();
+		System.out.println(t1.getAge());
+		System.out.println(t1.getName());	
 		
 	}
+	
+	
 
+}
+class Test{
+	
+	private String name="Sonyarani";
+	private int age=10;
+	public int getAge() {
+		return age;
+	}
+	public String getName() {
+		return name;
+	}
+	
 }
