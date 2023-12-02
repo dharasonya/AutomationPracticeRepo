@@ -17,5 +17,13 @@ public class MethodTest {
 	{
 		System.out.println("Result 2");
 	}
+	public void Result_5()
+	{
+		System.out.println("Result 2");
+	}
+	public void Result_6()
+	{
+		System.out.println("Result 2");
+	}
 	
 }
