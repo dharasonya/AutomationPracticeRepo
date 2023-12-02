@@ -35,4 +35,26 @@ public class MethodTest {
 
 	}
 	
+	public void Result_7()
+	{
+		System.out.println("Result 2");
+
+	}
+	public void Result_8()
+	{
+		System.out.println("Result 2");
+
+	}
+	public void Result_9()
+	{
+		System.out.println("Result 2");
+
+	}
+	public void Result_10()
+	{
+		System.out.println("Result 2");
+
+	}
+	
+	
 }
