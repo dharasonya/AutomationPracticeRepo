@@ -25,5 +25,18 @@ class Test{
 	public String getName() {
 		return name;
 	}
-	
 }
+	
+class Test2{
+	
+	private String name="Sonyarani";
+	private int age=10;
+	public int getAge() {
+		return age;
+	}
+	public String getName() {
+		return name;
+	}
+}
+	
+	
